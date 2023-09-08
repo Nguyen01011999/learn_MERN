@@ -37,13 +37,13 @@ const Public = () => {
             <main className="public__main">
                 <p>Located in Beautiful Downtown Foo City, Nguyễn Khánh Nguyên Repairs  provides a trained staff ready to meet your tech repair needs.</p>
                 <address className="public__addr">
-                    Dan D. Repairs<br />
+                    NKN.... Repairs<br />
                     555 Foo Drive<br />
                     Biên Hòa City<br />
                     <a href="tel:+15555555555">(555)09712307**</a>
                 </address>
                 <br />
-                <p>Owner: Dan Davidson</p>
+                <p>Owner: Nguyễn Khánh Nguyên </p>
             </main>
             <footer>
                 <Link to="/login">Employee Login</Link>
